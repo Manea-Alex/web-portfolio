@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/web-portfolio/static/css/main.81387cfb.css",
-    "main.js": "/web-portfolio/static/js/main.dbd4856e.js",
+    "main.css": "/web-portfolio/static/css/main.7708bc35.css",
+    "main.js": "/web-portfolio/static/js/main.ff4791f8.js",
     "static/js/787.e8a52378.chunk.js": "/web-portfolio/static/js/787.e8a52378.chunk.js",
     "static/media/Genius Documentation.pdf": "/web-portfolio/static/media/Genius Documentation.86c6e59eb5b08553679e.pdf",
     "static/media/Samurai Clash Documentation.pdf": "/web-portfolio/static/media/Samurai Clash Documentation.34d09cadb32fff0d0231.pdf",
@@ -31,15 +31,15 @@
     "static/media/Vienna.png": "/web-portfolio/static/media/Vienna.bf6d8d8189df0011187b.png",
     "static/media/LTNB.jpg": "/web-portfolio/static/media/LTNB.5aeddab566a54d78ca56.jpg",
     "static/media/JavaScript.png": "/web-portfolio/static/media/JavaScript.dafbcd7fb56fcfce553c.png",
-    "static/media/React.svg": "/web-portfolio/static/media/React.f1484e295933af0e748d6a01b05a8361.svg",
+    "static/media/React.svg": "/web-portfolio/static/media/React.a010f287ea79ad0673b610a223faa951.svg",
     "index.html": "/web-portfolio/index.html",
     "static/media/Tailwind.svg": "/web-portfolio/static/media/Tailwind.79614a5f61617ba49a0891494521226b.svg",
-    "main.81387cfb.css.map": "/web-portfolio/static/css/main.81387cfb.css.map",
-    "main.dbd4856e.js.map": "/web-portfolio/static/js/main.dbd4856e.js.map",
+    "main.7708bc35.css.map": "/web-portfolio/static/css/main.7708bc35.css.map",
+    "main.ff4791f8.js.map": "/web-portfolio/static/js/main.ff4791f8.js.map",
     "787.e8a52378.chunk.js.map": "/web-portfolio/static/js/787.e8a52378.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81387cfb.css",
-    "static/js/main.dbd4856e.js"
+    "static/css/main.7708bc35.css",
+    "static/js/main.ff4791f8.js"
   ]
 }

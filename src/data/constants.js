@@ -1,5 +1,5 @@
 // Importing images and documents used across the application
-import CV from "../assets/CV_Szőke_Manea_Alexandru_2023.pdf";
+import CV from "../assets/CV_Szőke_Manea_Alexandru_2024.pdf";
 
 import Tailwind from "../assets/languages/Tailwind.svg";
 import ReactIcon from "../assets/languages/React.svg";
